@@ -1,6 +1,10 @@
 # solarsketch
 Open source project created through the CodingPhase Discord on 06/06/2019 @ 17:39
 
+Developers on Project:
+Gregory Power
+Taz
+
 Web Application where solar panel arrays can be drawn.
 
 Features Will Include:
